@@ -4,7 +4,7 @@ Listing all my Achievements.
 
 ---
 ## 2024
-<font size="7"><strong> ☉ Physics Olympiad (BdPhO)</strong></font>
+<font size="7"><strong> ☉ Bangladesh Physics Olympiad (BdPhO) 2024</strong></font>
 
 - **Category:** B
 - **Regional Round**
