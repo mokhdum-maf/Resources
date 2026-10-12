@@ -15,5 +15,5 @@ Listing all my Achievements.
   - **Venue:** AIUB, Bangladesh
 - **Camp Participation**
   - BdPhO Online Camp
-<hr size="1">
+<hr style="opacity: 0.3;">
 hjdkjdhd
