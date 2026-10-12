@@ -2,8 +2,7 @@
 Listing all my Achievements.
 ---
 ## 2024
-<h2>Bangladesh Physics Olympiad (BdPhO)</h2>
-
+<font size="6"><strong>Bangladesh Physics Olympiad (BdPhO)</strong></font>
 - **Category:** B
 - **Regional Round**
   - **Result:** 3rd Place — Regional Winner
