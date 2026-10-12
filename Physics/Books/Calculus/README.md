@@ -4,7 +4,7 @@
 
 ## 2024
 
-### Bangladesh Physics Olympiad (BdPhO)
+- ### Bangladesh Physics Olympiad (BdPhO)
 
 - **Category:** B
 - **Regional Round**
