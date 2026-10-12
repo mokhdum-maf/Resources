@@ -1,4 +1,17 @@
-# Books for Calculus
-1. "Quick Calculus' by Kleppner and Ramsey 
-2. "Calculus : Basic Concepts for High Schools" by Tarasov 
-3. "Calculus" by Anton, Bivins and Davis
+# My Achievements
+
+---
+
+## 2024
+
+### Bangladesh Physics Olympiad (BdPhO)
+
+- **Category:** B
+- **Regional Round**
+  - • **Result:** 3rd Place — Regional Winner
+  - • **Venue:** Jashore Zilla School, Jashore, Bangladesh
+- **National Round**
+  - • **Result:** 14th Place — National Winner
+  - • **Venue:** AIUB, Bangladesh
+- **Camp Participation**
+  - ✓ BdPhO Online Camp
