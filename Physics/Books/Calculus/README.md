@@ -3,9 +3,9 @@
 Listing all my Achievements.
 
 ---
-## 2024
+## <u> 2024 </u>
 
-<font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2024</b></font>
+> <font size="7"><b>☉ Bangladesh Physics Olympiad (BdPhO) 2024</b></font>
 
 ‣ **Achievements :** Regional Winner(3<sup>rd</sup>), National Winner(14<sup>th</sup>) and Camper
 - Category : B
